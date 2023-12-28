@@ -1,4 +1,4 @@
-**BluetoothPrint Integration Guide**
+**Thermer Integration Guide**
 
 Introduction
 

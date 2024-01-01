@@ -80,7 +80,7 @@ Encode and Open URL:
 
 Use the JSONEncoder to encode the print entries into JSON format.
 Add percent encoding to the JSON string.
-Construct a URL with the encoded JSON string and the custom scheme (e.g., "bprintapp://").
+Construct a URL with the encoded JSON string and the custom scheme (e.g., "thermer://").
 Open the URL using UIApplication.shared.open(url!).
 
 **Note**
